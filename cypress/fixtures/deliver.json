@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Maria Alice",
+        "cpf": "00000014141",
+        "email": "marialice@gmail.com",
+        "whatsapp": "11999999999",
+        "address":{
+            "postalcode": "07914060",
+            "street": "Rua Olavo Bilac",
+            "number": "1000",
+            "details": "apto 166",
+            "district": "Jardim Magalhães",
+            "city_state": "Francisco Morato/SP"
+        }, 
+        "delivery_method": "Moto",
+        "cnh":"cnh-digital.jpg"
+    }, 
+    "cpf_inv" : {
+        "name": "Aline Gonzalez",
+        "cpf": "X00000141AA",
+        "email": "aline@gmail.com",
+        "whatsapp": "11999999999",
+        "address":{
+            "postalcode": "07914060",
+            "street": "Rua Olavo Bilac",
+            "number": "1000",
+            "details": "apto 166",
+            "district": "Jardim Magalhães",
+            "city_state": "Francisco Morato/SP"
+        }, 
+        "delivery_method": "Moto",
+        "cnh":"cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Maria Alice",
+        "cpf": "00000014141",
+        "email": "marialice.com.br",
+        "whatsapp": "11999999999",
+        "address":{
+            "postalcode": "07914060",
+            "street": "Rua Olavo Bilac",
+            "number": "1000",
+            "details": "apto 166",
+            "district": "Jardim Magalhães",
+            "city_state": "Francisco Morato/SP"
+        }, 
+        "delivery_method": "Moto",
+        "cnh":"cnh-digital.jpg"
+    }
+}
